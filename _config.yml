@@ -1,0 +1,38 @@
+#
+# Configuration
+#
+
+# Site
+title: "blog.segouin.xyz"
+description: > # ignore newlines in this value
+  Florent Segouin's personal blog.
+author: "Florent Segouin"
+encoding: "utf-8"
+language: "en-us"
+
+# Routes
+source: ./source
+destination: ./build
+baseurl: ""
+url: "http://127.0.0.1:9999"
+root: /
+permalink: /:categories/:title/
+
+# Writing
+markdown: kramdown
+
+# Publishing
+future: true
+show_drafts: true
+limit_posts: 5
+
+# <head>
+favicons: false
+openGraph: true
+twitterCards:
+  username: florentsegouin
+
+# Analytics
+analytics:
+  id:
+  domain:

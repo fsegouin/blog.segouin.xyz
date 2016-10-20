@@ -1,0 +1,34 @@
+{% include head/base.html %}
+  <div role="document">
+    <!---
+      <div role="banner">
+      <a href="/" role="banner">
+        <img src="/assets/images/logo.png" width="144" alt="Narwhal">
+        {% comment %}{{ site.title }}{% endcomment %}
+      </a>
+    </div>
+    -->
+    <div role="main">
+      <div class="shell">
+        <div class="dots__container">
+          <div class="dots__dot dots__dot--close"></div>
+          <div class="dots__dot dots__dot--minimize"></div>
+          <div class="dots__dot dots__dot--maximize"></div>
+          <div class="flex-grow"></div>
+          <div class="dots__dot dots__dot--switch"></div>
+        </div>
+        <div class="shell__window">
+          <div class="shell__container">
+            {{ content }}
+            {% include site/navigation.html nav=site.data.navigation %}
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+    <div role="contentinfo">
+      <p>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.title }}. All Rights Reserved.</p>
+    </div>
+    -->
+  </div>
+{% include foot/base.html %}
