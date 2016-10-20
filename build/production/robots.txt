@@ -3,4 +3,4 @@ Disallow: /error/
 
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https//blog.segouin.xyz/sitemap.xml

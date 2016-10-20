@@ -3,10 +3,10 @@
 
 /* TEAM */
 
-Author(s): Chris Bracco
+Author(s): Florent Segouin
 
 
-Site:      https://example.com
+Site:      https//blog.segouin.xyz
 
 
 

@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://example.com/welcome-to-jekyll/</loc>
+      <loc>https//blog.segouin.xyz/welcome-to-jekyll/</loc>
       
         <lastmod>2016-02-11T01:07:51+00:00</lastmod>
       
@@ -21,9 +21,9 @@
   
     
     <url>
-      <loc>https://example.com/humans.txt</loc>
+      <loc>https//blog.segouin.xyz/humans.txt</loc>
       
-        <lastmod>2016-10-20T17:28:44+01:00</lastmod>
+        <lastmod>2016-10-20T17:54:20+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,9 +38,9 @@
   
     
     <url>
-      <loc>https://example.com/</loc>
+      <loc>https//blog.segouin.xyz/</loc>
       
-        <lastmod>2016-10-20T17:28:44+01:00</lastmod>
+        <lastmod>2016-10-20T17:54:20+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -57,9 +57,9 @@
   
     
     <url>
-      <loc>https://example.com/robots.txt</loc>
+      <loc>https//blog.segouin.xyz/robots.txt</loc>
       
-        <lastmod>2016-10-20T17:28:44+01:00</lastmod>
+        <lastmod>2016-10-20T17:54:20+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
